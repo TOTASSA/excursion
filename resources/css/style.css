@@ -1,0 +1,27 @@
+#all {
+  text-align: center;
+  font-family: Verdana;
+  background-color: black;
+}
+.comingsoon {
+  color: Aquamarine;
+  font-size: 20px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+}
+.h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: bold;
+}
+.explaintion {
+  color: gray;
+  font-size: 25px;
+}
+#phone {
+  width: 100px;
+  height: 200px;
+}
